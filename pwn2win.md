@@ -60,7 +60,7 @@ For the global government plan, the first step taken will be to elect their cand
 
 A model of digital lock is being produced by a company of the Order called RayHeed, and their ambition is to begin installing it in the houses of every country already controlled by "bavs", by using some artificial gadget to induce civilians into doing it. We still don't know their objective in doing so, but we'll try to infiltrate their next annual meeting at Berg's Club, after we find out its location, as matters of this kind aren't discussed through e-mails or other means of communication we can try to get access to. Between all 7 levels of security in which their files, conversations and other intel is categorized, this one is ranked the highest, called SS7.
 
-That being said, we have the complex mission of stopping the most structured and dangerous group we have ever come across, reply with ```diff - CTF-BR{I_know_about_th3_r1sks!}```, if you're willing to put your life on the line to give the human race a chance to keep on existing by joining the Rebellious Fingers!
+That being said, we have the complex mission of stopping the most structured and dangerous group we have ever come across, reply with ```CTF-BR{I_know_about_th3_r1sks!}```, if you're willing to put your life on the line to give the human race a chance to keep on existing by joining the Rebellious Fingers!
 
 ![luke_2](https://github.com/SkyBulk/pwn2win/blob/master/images/luke_2.png)
 
