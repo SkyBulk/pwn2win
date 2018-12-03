@@ -18,16 +18,6 @@ Look the source luke !!
 
 ![luke](https://github.com/SkyBulk/pwn2win/blob/master/images/luke.png)
 
-
-
-# g00d b0y
-
-> Now prove you were a good kid and show you learned the most basic lesson in CTFs!!
-
-Look the source luke !!
-
-![luke](https://github.com/SkyBulk/pwn2win/blob/master/images/luke.png)
-
 # A Segregated New World [Read first]
 
 ** Hint **
